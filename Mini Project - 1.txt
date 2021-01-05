@@ -1,0 +1,6 @@
+MINI PROJECT - 
+-------------------------
+-Make a webpage about any topic of your choice.
+-Use the heading tags, paragraph tag, <br> tag,  div tag and the text formatting tags ( wherever required ).
+-Use the basic styling properties in CSS also, like font-family, font-size, background-color, text-align etc,
+# Make your webpage as attractive as you can.
